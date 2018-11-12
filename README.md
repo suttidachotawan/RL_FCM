@@ -1,0 +1,1 @@
+This article presents a method for analyzing data segments using the efficient learning technique of Fuzzy Sequential Analysis. Robust-learning of fuzzy cmeans. Analyze and evaluate data. The proposed method can be applied to data that unknown number of cluster
